@@ -1,1 +1,2 @@
-Python study notes
+Python study notes  
+[Requests的学习内容](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0015109021115795adfc5c8629f4f98985063b5a7e3ff87000)
